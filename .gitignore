@@ -106,3 +106,4 @@ ENV/
 /.idea/
 /out/
 *.iml
+jupyter_notebooks/topic04_linear_models/data/stackoverflow_sample_125k.tsv
