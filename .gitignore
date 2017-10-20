@@ -105,4 +105,8 @@ ENV/
 # IntelliJ IDEA.
 /.idea/
 /out/
-*.im
+*.iml
+
+# data
+data/faces/
+data/news_data/
