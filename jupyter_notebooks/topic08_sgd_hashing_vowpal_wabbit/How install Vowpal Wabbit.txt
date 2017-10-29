@@ -1,0 +1,17 @@
+Информация из Слака
+
+Информация взята отсюда: https://opendatascience.slack.com/archives/C39147V60/p1509275734000059
+
+1) msi интсталлер - https://github.com/eisber/vowpal_wabbit/releases
+
+скачиваем и устанавливаем VowpalWabbit-8.4.0.1.msi
+
+2) дальше Пуск - Vowpal...   откроется его консоль
+
+3) подружить библиотеку с jupyter:
+после установки msi добавяем путь C:\Program Files\VowpalWabbit в PATH и все работает из jupyter'а без проблем.
+Подробнее:
+
+переменные среды -> Path -> добавить
+
+после этого еще консоль перезапустить надо
